@@ -38,11 +38,6 @@ This project focuses on analyzing employee attendance data to gain insights into
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard](Add Power BI dashboard, dataset and preview image)
-
----
-
 ## 📬 Contact
 **Mohammed Sobhy**  
 Data Analyst | Power BI
