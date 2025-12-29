@@ -39,7 +39,7 @@ This project focuses on analyzing employee attendance data to gain insights into
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Add Power BI dashboard, dataset and preview image)
 
 ---
 
